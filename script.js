@@ -1,4 +1,4 @@
-const timeEl = document.getElementById('time');//hejj4
+const timeEl = document.getElementById('time');//timezone
 const dateEl = document.getElementById('date');
 const currentWeatherItemsEl = document.getElementById('current-weather-items');
 const timezone = document.getElementById('time-zone');
